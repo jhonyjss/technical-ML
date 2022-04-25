@@ -32,7 +32,7 @@ Para rodar este projeto no BACKEND, voce precisava renomear o arquivo .env.examp
 
 ## Documentação - API SWAGGER
 
-Para ter acesso a documentação dos endpoints desenvolvidos você deve acessar o seguinte link
+Para ter acesso a documentação dos endpoints desenvolvido você deve acessar o seguinte link
 [http://localhost:3000/api](http://localhost:3000/api)
 
 ## Executando localmente a API
