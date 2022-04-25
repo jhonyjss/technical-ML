@@ -1,6 +1,6 @@
 # FRONT - ML Search
 
-Este projeto foi desenvolvido com Vue 3 in Vite.
+Este projeto foi desenvolvido com Vue 3 in Vite diminuindo o tempo de compilamento e build no caso em producao
 
 ## Recommended IDE Setup
 
