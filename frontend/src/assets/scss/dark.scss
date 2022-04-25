@@ -1,0 +1,39 @@
+.dark {
+  body {
+    background: #1a1a1a !important;
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    span,
+    strong,
+    section > label,
+    input,
+    i,
+    p {
+      color: white !important;
+    }
+    .card,
+    input {
+      background: #2f3542;
+      border-color: #fff159 !important;
+    }
+    svg path {
+      fill: white;
+    }
+    .switch-slider {
+      background: #5352ed !important;
+    }
+  }
+  #topNavbar {
+    h2 {
+      color: #2f3542 !important;
+    }
+  }
+  .multiselect {
+    li span {
+      color: #2f3542 !important;
+    }
+  }
+}
