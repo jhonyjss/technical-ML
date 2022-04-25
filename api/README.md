@@ -39,10 +39,10 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run start:dev or npm run docker:dev // only if you have docker-compose installed
 
 # production mode
-$ npm run start:prod
+$ npm run start:prod or npm run docker:prod // only if you have docker-compose installed
 ```
 
 ## Test
