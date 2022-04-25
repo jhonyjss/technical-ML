@@ -112,5 +112,5 @@ Executar com o ambiente desenvolvimento
 Executar o compilamento em prod
 
 ```bash
-  npm run build &&npm run start
+  npm run build && npm run start
 ```
