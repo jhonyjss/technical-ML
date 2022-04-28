@@ -74,23 +74,3 @@ Executar o compilamento em prod
 ```bash
   npm run build && npm run start
 ```
-
-## Executando localmente a API
-
-Navegue ate o diretorio
-
-```bash
-  cd api
-```
-
-Executar com docker compose
-
-```bash
-  npm run docker:dev
-```
-
-Executar sem docker compose
-
-```bash
-  npm run start:dev
-```
