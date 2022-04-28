@@ -60,7 +60,7 @@ Executar sem docker compose
 Navegue ate o diretorio
 
 ```bash
-  cd api
+  cd frontend
 ```
 
 Executar com o ambiente desenvolvimento
@@ -93,24 +93,4 @@ Executar sem docker compose
 
 ```bash
   npm run start:dev
-```
-
-## Executando localmente o FRONT END
-
-Navegue ate o diretorio
-
-```bash
-  cd api
-```
-
-Executar com o ambiente desenvolvimento
-
-```bash
-  npm run dev
-```
-
-Executar o compilamento em prod
-
-```bash
-  npm run build && npm run start
 ```
